@@ -15,3 +15,16 @@ KPIs
 2. **Average Delivery Time:** Monitor and aim to decrease the mean delivery time (in minutes).
 3. **Monthly Average Order Value:** Calculate and track the average order value in INR to evaluate sales performance.
 
+Insights
+Customer Experience Varies Widely: Ratings range from 1 to 5, with feedback types spread across positive, neutral, and negative—indicating inconsistency in service and satisfaction.
+
+High Delivery Time Impacts Ratings: Orders with longer delivery times often correlate with lower customer ratings and more negative feedback.
+
+Revenue Potential Exists: Several high-value orders suggest a customer base willing to spend more, especially when service quality is satisfactory.
+
+Conclusion
+Consistency Is Key: Standardizing service levels across restaurants can improve overall customer satisfaction and brand perception.
+
+Speed Drives Satisfaction: Reducing delivery times could directly improve ratings and feedback positivity.
+
+Data-Driven Strategies Work: Regular tracking of KPIs like order value, ratings, and delivery time is essential for targeted improvements and growth.
