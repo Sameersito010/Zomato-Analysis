@@ -6,6 +6,9 @@ Objectives
 2. **Optimize Delivery Performance:** Reduce average delivery times across all restaurants to ensure timely service.
 3. **Increase Order Value:** Drive higher revenue by encouraging upselling and optimizing menu offerings.
 
+-Dashboard interaction- <a href="https://github.com/Sameersito010/Zomato-Analysis/blob/main/Zomato%20Survey.xlsx"> Dashborad </a>
+-Dashborad image-<a href="https://github.com/Sameersito010/Zomato-Analysis/blob/main/zomato.jpg"> Image</a>
+
 KPIs 
 
 1. **Average Customer Rating:** Track average rating on a 1–5 scale across all restaurants monthly.
